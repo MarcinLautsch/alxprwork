@@ -96,7 +96,7 @@ const shopping = [
 // const calculateMostExpensiveProducts = (price) => {
 //   return shopping.filter(product => {
 //     return product.price > price
-//   })
+///})
 // }
 
 const expensiveProducts = shopping.filter(product => {
